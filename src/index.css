@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.fs-7 {
+  font-size: 12px;
+}
+
+.fs-8 {
+  font-size: 11px;
+}
+
+.fs-9 {
+  font-size: 10px;
+}
+
+.fs-10 {
+  font-size: 9px;
+}
+
+.fs-11 {
+  font-size: 8px;
+}
+
+.fs-12 {
+  font-size: 7px;
+}
